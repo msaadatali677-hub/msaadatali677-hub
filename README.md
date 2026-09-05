@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/msaadatali677-hub/msaadatali677-hub/main/assets/profile.jpg" width="180" style="border-radius: 50%;" alt="Saadat Ali"/>
+  <h1>Hi 👋, I'm Saadat Ali</h1>
+  <h3>AI Automation Specialist & Web Developer</h3>
+</div>
 
 # 💫 About Me:
 🔹 AI Automation Specialist & Web Developer<br><br>I specialize in building modern web applications using HTML, CSS, JavaScript, React.js, and PHP, along with backend automation and scripting in Python.<br><br>📊 Proficient in MS Office Suite (Word, Excel, PowerPoint) for creating professional documents, data analysis, and presentations.<br><br>🔍 Experienced in SEO optimization to improve website visibility and performance.<br><br>⚡ Currently exploring AI Automation to streamline workflows and boost productivity.<br><br>📫 Let's connect and build something great together!
