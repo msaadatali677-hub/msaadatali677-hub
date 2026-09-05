@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/msaadatali677-hub/msaadatali677-hub/main/assets/profile.jpg" width="180" style="border-radius: 50%;" alt="Saadat Ali"/>
+  <img src="https://raw.githubusercontent.com/msaadatali677-hub/msaadatali677-hub/main/assets/saadatali.jpg" width="180" style="border-radius: 50%;" alt="Saadat Ali"/>
   <h1>Hi 👋, I'm Saadat Ali</h1>
   <h3>AI Automation Specialist & Web Developer</h3>
 </div>
